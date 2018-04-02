@@ -1,0 +1,17 @@
+The general is on defense. He is taking some serious blow .But just after a minute Rey-sama rises up and lay some heavy swings of hammer, your speed is coming handy to avoid it. 
+Still you take some of the attack.
+your stat
+	health-46/60
+	speed-80/100
+	strentgh-50/70
+	accuracy-90/100
+	intellegence-80/80
+General rey’s stat
+	health-40/80
+	speed-40/60
+	strentgh-90/150
+	accuracy-20/40
+	intellegence-40/80
+General rey is looking confused. After taking several critical damage he is just paying the price of taking the opponent lightly. 
+You want to finish it quickly as reinforcement might come at any time.
+You decide to...

@@ -1,0 +1,58 @@
+Swordsman
+After the first battle you are stationed for the up-coming battle against the Clover army. It’s about the Reiguard Castle. 
+It’s strategically the most important castle of Clover that lies between two mountains, it’s almost impossible to conquer.
+As you have the leadership of the army you need to devise a great to take down this famous castle. You have a good amount of swordsman spearman and archers.
+At first you need to take up a stratagy.
+you choose.... 
+a)to surround the castle, stop their food supplies and eventually conquer the castle.
+b)to make a swift attack and conquer the  castle
+a)it is a lengthy process you station your archers on the hills sowrdsman and spearman on the defense .
+
+b) 
+ii)the swift strike team gives you success they even manage to take down the general of castle. the enemy moral is down they give up the castle.
+i)as you push back the enemy remains confine in the castle.  meanwhile soldiers ordered to fight outside has  surrounded the castle. finding no other way the genral of the caslt famous general rey has offered you a battle to death.
+you decide to.....
+a)ignore his prposal and kill him
+b)agrees to battle  
+
+a)you kill the general and and win the battle.
+
+
+
+
+
+The General Rey of clover is not just another  general fighter He uses a huge sledge hammer to attack. you need to fight against him carefully.
+	health-80/80
+	speed-80/80
+	strentgh-120/120
+	accuracy-80/80
+	intellegence-100/100
+General Rey’s 
+			health-80/80
+	speed-60/60
+	strentgh-150/150
+	accuracy-40/40
+	intellegence-80/80
+you 
+-go to attack: at the first chance you attack him. but he over powers you. you die.
+-go to defense : as you invite him to attack. he comes at you. you find an opening and land a clinical attack.
+
+
+your stat
+	health-60/80
+	speed-60/80
+	strentgh-100/120
+	accuracy-70/80
+	intellegence-90/90
+General rey’s stat
+	health-40/80
+	speed-40/60
+	strentgh-90/150
+	accuracy-20/40
+	intellegence-40/80
+General rey is looking confused. After taking several critical damage he is just paying the prce of taking the opponent lightly. you want to finish it quickly as reinforcement might come at any time.
+you decide to use your remaining power in one killing thrust.  After dodging several times you managed to land the killing blow through his heart. he is dead. the glory is yours.
+
+
+
+

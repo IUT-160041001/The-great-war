@@ -1,0 +1,15 @@
+The General Rey of clover is another  general fighter He uses a huge sledge hammer to attack. So its a battle between power and speed. 
+your
+	health-60/60
+	speed-100/100
+	strentgh-70/70
+	accuracy-100/100
+	intellegence-80/80
+General Rey’s 
+	health-80/80
+	speed-60/60
+	strentgh-150/150
+	accuracy-40/40
+	intellegence-80/80
+The battle begins . at first general takes you lightly, 
+You take the chance to...
